@@ -66,12 +66,28 @@ I'm a curious mind with a creative side, always looking for something new to lea
 A little collection of my learning progress, experiments, and projects.
 
 <details>
-<summary>📁 School Activities</summary>
-
-- Midterm Laboratory Activities
-- Final Laboratory Activities
-- Programming Exercises
-
+<summary>📁 Midterm Lab Tasks</summary>
+ 
+<br>
+ 
+| Activity | Description | Link |
+|---|---|---|
+| Lab Task 01 | Description | [View](YOUR_LINK) |
+| Lab Task 02 | Description | [View](YOUR_LINK) |
+| Lab Task 03 | Description | [View](YOUR_LINK) |
+ 
+</details>
+ 
+<details>
+<summary>🔒 Final Lab Tasks</summary>
+ 
+<br>
+ 
+| Activity | Description | Link |
+|---|---|---|
+| Final Task 01 | Description | [View](YOUR_LINK) |
+| Final Task 02 | Description | [View](YOUR_LINK) |
+ 
 </details>
 
 <details>
@@ -81,6 +97,7 @@ A little collection of my learning progress, experiments, and projects.
 - More ideas are loading!
 
 </details>
+
 
 ---
 
