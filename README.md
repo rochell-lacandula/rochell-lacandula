@@ -1,3 +1,4 @@
+![Sage Bloom Banner](./sage-bloom-banner.png.png)
 # 🦋 Hello, World! I'm Chell! ♡
 
 ### `A curious mind in a world full of possibilities.`
