@@ -72,7 +72,7 @@ A little collection of my learning progress, experiments, and projects.
  
 | Activity | Description | Link |
 |---|---|---|
-| Lab Task 01 | Description | [View](YOUR_LINK) |
+| Lab Task 01 | Description | [View](https://github.com/rochell-lacandula/RL_Java_Projects/tree/2b86ec0e165a6b95169335276662e328635961c5/MIDTERMS/Labtask1) |
 | Lab Task 02 | Description | [View](YOUR_LINK) |
 | Lab Task 03 | Description | [View](YOUR_LINK) |
  
